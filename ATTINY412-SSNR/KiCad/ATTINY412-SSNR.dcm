@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATTINY412-SSNR
+D 105C, Green, 20MHz, SOIC8, T&R
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001931A.pdf
+$ENDCMP
+#
+#End Doc Library

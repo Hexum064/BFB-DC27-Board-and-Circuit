@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MSS3-V-T_R
+#/1396065/156404/2.43/7/4/Switch
+DEF MSS3-V-T_R S 0 30 Y Y 1 F N
+F0 "S" 850 300 50 H V L CNN
+F1 "MSS3-V-T_R" 850 200 50 H V L CNN
+F2 "MSS3VTR" 850 100 50 H I L CNN
+F3 "http://www.dip.com.tw/en/en-product-information/en-switch005/item/download/2643_3624e6da26abd0f9c3465d69564276ea" 850 0 50 H I L CNN
+F4 "Slide Switches Slide Type 1P2T (1.4mm height)" 850 -100 50 H I L CNN "Description"
+F5 "1.4" 850 -200 50 H I L CNN "Height"
+F6 "Diptronics" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MSS3-V-T/R" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "113-MSS3-V-T/R" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=113-MSS3-V-T%2FR" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "RS Part Number"
+F11 "" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X NO A1 0 0 200 R 50 50 0 0 B
+X COM B1 0 -100 200 R 50 50 0 0 B
+X NC C1 0 -200 200 R 50 50 0 0 B
+X MP1 MP1 0 -300 200 R 50 50 0 0 B
+X MP2 MP2 1000 0 200 L 50 50 0 0 B
+X MP3 MP3 1000 -100 200 L 50 50 0 0 B
+X MP4 MP4 1000 -200 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

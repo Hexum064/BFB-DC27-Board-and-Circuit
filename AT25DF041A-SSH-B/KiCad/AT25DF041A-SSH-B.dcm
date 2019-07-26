@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25DF041A-SSH-B
+D AT25DF041A-SSH-B, Serial-SPI Flash Memory 4Mbit, 6ns, 2.7V, 8-Pin, SOIC
+K
+F http://www.adestotech.com/sites/default/files/datasheets/doc3668.pdf
+$ENDCMP
+#
+#End Doc Library

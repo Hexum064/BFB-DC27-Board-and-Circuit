@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3352T-1-504LF
+D Trimmer Resistors - Through Hole 3/8"round 500Kohms 0.5watt 20%
+K
+F https://www.bourns.com/docs/Product-Datasheets/3352.pdf
+$ENDCMP
+#
+#End Doc Library
